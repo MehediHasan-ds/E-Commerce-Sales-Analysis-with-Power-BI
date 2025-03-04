@@ -22,7 +22,6 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 
 ## **2. Project Overview**  
  
-
 - **Data Cleaning & Preparation**  
   - Integrated data from multiple sources, including sales transactions, customer details, product information, and return records.  
   - Handled missing values, duplicates, and ensured data consistency.  
