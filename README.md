@@ -2,7 +2,7 @@
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMjg1ZTEzZWMtN2VjOS00NGM0LWJlNGItMjQ1ZWY0ZTM1YzBkIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
 
-[1. Insights Gained](##insights-gained) | [2. Project Overview](##project-overview) | [3. Key Findings](##key-findings) | [4. Business Recommendations](##business-recommendations) | [5. Future Work](##future-work)  
+[1. Insights Gained](#insights-gained) | [2. Project Overview](#project-overview) | [3. Key Findings](#key-findings) | [4. Business Recommendations](#business-recommendations) | [5. Future Work](#future-work)
 
 ---
 
@@ -28,7 +28,7 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 
 - **Data Modeling**  
   - Established relationships between **FactSales**, **FactReturn**, **DimCustomer**, **DimProduct**, **DimDate**, **DimProductCategories**, **DimProductSubCategories**, and **DimTerritory**.  
-  - Implemented a **star schema** to optimize query performance.  
+  - Implemented a **snowflake schema** to optimize query performance.  
 
 - **Dashboard & Visualization Development**  
   - Created interactive dashboards displaying revenue, profit, order trends, and return metrics.  
