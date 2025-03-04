@@ -2,7 +2,7 @@
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMjg1ZTEzZWMtN2VjOS00NGM0LWJlNGItMjQ1ZWY0ZTM1YzBkIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
 
-[1. Insights Gained](#insights-gained) | [2. Project Overview](#project-overview) | [3. Key Findings](#key-findings) | [4. Business Recommendations](#business-recommendations) | [5. Future Work](#future-work)  
+[1. Insights Gained](##insights-gained) | [2. Project Overview](##project-overview) | [3. Key Findings](##key-findings) | [4. Business Recommendations](##business-recommendations) | [5. Future Work](##future-work)  
 
 ---
 
