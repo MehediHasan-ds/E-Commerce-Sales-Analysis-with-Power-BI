@@ -2,11 +2,15 @@
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMjg1ZTEzZWMtN2VjOS00NGM0LWJlNGItMjQ1ZWY0ZTM1YzBkIiwidCI6ImY5YWU1ZTMxLTQyMzYtNGZmNi05NWMwLTEyMzUxNDhmMTExMSIsImMiOjEwfQ%3D%3D)
 
-[1. Insights Gained](#insights-gained) | [2. Project Overview](#project-overview) | [3. Key Findings](#key-findings) | [4. Business Recommendations](#business-recommendations) | [5. Future Work](#future-work)
+1. [Insights Gained](#insights-gained) 
+2. [Project Overview](#project-overview) 
+3. [Key Findings](#key-findings) 
+4. [Business Recommendations](#business-recommendations) 
+5. [Future Work](#future-work)
 
 ---
 
-## **1. Insights Gained**  
+## Insights Gained
 
 The analysis of e-commerce sales has provided valuable insights into customer purchasing behavior, product performance, and overall business health. Some key findings include:  
 
@@ -20,7 +24,7 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 
 ---
 
-## **2. Project Overview**  
+## Project Overview  
  
 - **Data Cleaning & Preparation**  
   - Integrated data from multiple sources, including sales transactions, customer details, product information, and return records.  
@@ -43,7 +47,7 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 
 ---
 
-## **3. Key Findings**  
+## Key Findings  
 
 ### **Sales & Profitability Trends**  
 - Orders, revenue, and profit have consistently increased over time.  
@@ -64,7 +68,7 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 
 ---
 
-## **4. Business Recommendations**  
+## Business Recommendations  
 
 ### **Customer Insights & Marketing Strategy**  
 - **Loyalty Programs**: Reward frequent buyers identified from RFM segmentation.  
@@ -86,7 +90,7 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 
 ---
 
-## **5. Future Work**  
+## Future Work  
 
 To further enhance customer retention and gain deeper insights into purchasing behavior, **Cohort Analysis** will be implemented. This will help track how different groups of customers (based on acquisition date, first purchase, etc.) behave over time.  
 
