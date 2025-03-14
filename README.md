@@ -44,6 +44,8 @@ The E-Commerce Sales Analysis project provides a comprehensive evaluation of sal
   - **Profitability & Return Analysis:** Identified high-performing and underperforming products.  
   - **Price Sensitivity Testing:** Assessed the impact of price changes on demand and profitability.  
 
+[Back to Top](#e-commerce-sales-analysis-report)
+
 ---
 
 ## Objectives  
@@ -57,6 +59,8 @@ The E-Commerce Sales Analysis project provides a comprehensive evaluation of sal
 7. **Enhance Business Strategies:** Provide actionable recommendations for increasing sales, reducing returns, and improving customer loyalty.
 8. **RFM Analysis:** Segmented customers into groups based on Recency, Frequency, and Monetary value to tailor marketing strategies. 
 
+[Back to Top](#e-commerce-sales-analysis-report)
+
 ---
 
 ## Data Sources  
@@ -69,6 +73,8 @@ The analysis is based on a structured data model integrating multiple datasets:
 - **DimDate:** Provides temporal attributes for time-based analysis.  
 - **DimTerritory:** Contains geographical details of sales transactions.
 
+[Back to Top](#e-commerce-sales-analysis-report)
+
 ---
 
 ## Data Modeling  
@@ -76,8 +82,10 @@ The project utilizes a **snowflake schema** to establish relationships between m
 
 <img src="data-model.png" alt="Data Model" width="800" height="450" />
 
+[Back to Top](#e-commerce-sales-analysis-report)
+
 ---
-Data Modeling
+
 ## Data Preprocessing  
 The following preprocessing steps were performed to ensure data quality and consistency:  
 
@@ -105,6 +113,8 @@ The following preprocessing steps were performed to ensure data quality and cons
 - Aggregated and grouped data (sum, avg, count, etc.).  
 - Concatenated and merged datasets.  
 
+[Back to Top](#e-commerce-sales-analysis-report)
+
 ---
 
 ## Advanced DAX Measures  
@@ -130,6 +140,8 @@ The following advanced DAX measures were created to derive key insights:
 | **Profit Gap**                 | `[Target Profit] - [Profit]`                                                 |
 | **Price Adjustment(%) Value**  | `SELECTEDVALUE('Price Adjustment(%)'[Price Adjustment(%)], 0)`                |
 
+[Back to Top](#e-commerce-sales-analysis-report)
+
 --- 
 
 ## Insights Gained  
@@ -147,6 +159,8 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
   - **Promising Customers:** Customers with potential for higher engagement and loyalty.  
 - **Geographical Sales Distribution:** The USA, Australia, and Canada contribute the highest revenue.  
 - **Price Adjustment Impact:** A slight price increase on top-selling products may enhance profitability without reducing demand.  
+
+[Back to Top](#e-commerce-sales-analysis-report)
 
 ---
 
@@ -172,6 +186,8 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 - The highest revenue comes from **the USA, Australia, and Canada**.  
 - Expansion efforts in these regions could further enhance profitability.  
 
+[Back to Top](#e-commerce-sales-analysis-report)
+
 ---
 
 ## Business Recommendations  
@@ -193,6 +209,8 @@ The analysis of e-commerce sales has provided valuable insights into customer pu
 - **Expansion in High-Demand Regions:** Utilize geographical insights to explore new markets in the USA, Australia, and Canada.  
 - **AI-Powered Forecasting:** Implement machine learning to predict sales trends and adjust stock levels proactively.  
 - **Sales Team Performance Tracking:** Use sales data to evaluate employee efficiency and incentivize high performers.  
+
+[Back to Top](#e-commerce-sales-analysis-report)
 
 ---
 
